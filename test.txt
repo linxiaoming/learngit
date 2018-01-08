@@ -11,4 +11,5 @@ git reflog
 git reset -hard 版本id
 与其他版本控制器不一致的是git有缓存区
 git status 查看状态
-git diff HEAD --test.txt 比较工作区的与版本库最新版的区别
+git diff HEAD -- test.txt 比较工作区的与版本库最新版的区别
+git checkout HEAD -- test.txt 撤销修改
