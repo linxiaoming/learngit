@@ -1,3 +1,12 @@
-GIT IS VERY GOOD!
-WO LIKE GIT!
-我爱GIT
+git学习命令
+git init 
+git add 文件名
+git commit -m ‘备注说明’
+git log 
+git log -pretty==oneline
+git reset --hard HEAD^
+git reset --hard HEAD^^
+git reset --hard HEAD~100
+git reflog 
+git reset -hard 版本id
+
