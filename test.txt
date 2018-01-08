@@ -3,10 +3,11 @@ git init
 git add 文件名
 git commit -m ‘备注说明’
 git log 
-git log -pretty==oneline
+git log -pretty=oneline
 git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~100
 git reflog 
 git reset -hard 版本id
-
+与其他版本控制器不一致的是git有缓存区
+git status
