@@ -14,3 +14,4 @@ git status 查看状态
 git diff HEAD -- test.txt 比较工作区的与版本库最新版的区别
 git checkout HEAD -- test.txt 撤销修改
 git rm 文件名 删除版本库相应的文件
+学习
