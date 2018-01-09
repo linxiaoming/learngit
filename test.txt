@@ -16,4 +16,4 @@ git checkout HEAD -- test.txt 撤销修改
 git rm 文件名 删除版本库相应的文件
 git branch fz 创建分支
 git checkout fz 切换分支
-git merge fz 合并分支
+git merge fz 合并分支.
